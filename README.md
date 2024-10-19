@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rbhavana17
+- 👋 Hi, I’m Reddy Shetty Bhavana
 - 👀 I’m looking for an internship
 - 🌱 I’m currently pursuing B-Tech,3rd year in CSE(AIML) at VMTW
 <!---
